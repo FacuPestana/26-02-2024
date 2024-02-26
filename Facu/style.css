@@ -1,0 +1,9 @@
+
+body{
+    margin-left: 2mm;
+    background-color: rgb(255, 230, 198);
+}
+
+#Anterior, #Siguiente{
+    background-color: beige;
+}
